@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsync",
+        "uuid": 25607790,
+        "checksum": "a5rzhbh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
